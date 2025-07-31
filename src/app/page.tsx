@@ -179,7 +179,7 @@ const About: React.FC = () => {
     { name: 'Vercel' },
   ];
 
-  const [visibleSkills, setVisibleSkills] = useState<boolean[]>(new Array(skills.length).fill(false));
+  const [, setVisibleSkills] = useState<boolean[]>(new Array(skills.length).fill(false));
 
   useEffect(() => {
     const observer = new IntersectionObserver(
