@@ -364,11 +364,11 @@ const Contact: React.FC = () => {
       <div className="max-w-4xl mx-auto text-center">
         <div className="mb-16">
           <h2 className="text-4xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-cyan-400 to-purple-600 bg-clip-text text-transparent">
-            Let's Work Together
+            Let&apos;s Work Together
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-cyan-400 to-purple-600 mx-auto rounded-full mb-8"></div>
           <p className="text-xl text-gray-300 leading-relaxed max-w-2xl mx-auto">
-            Ready to bring your next project to life? I'd love to hear about your ideas and discuss how we can create something amazing together.
+            Ready to bring your next project to life? I&apos;d love to hear about your ideas and discuss how we can create something amazing together.
           </p>
         </div>
 
